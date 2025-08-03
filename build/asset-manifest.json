@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.5cf0f298.js",
+    "static/media/pizza.jpg": "/static/media/pizza.b2da62ce6ed158194650.jpg",
+    "static/media/peixe.jpg": "/static/media/peixe.4958cc09f749cc761892.jpg",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.cea732216d67baee3e636340bf41d210.svg",
+    "static/media/pattern.svg": "/static/media/pattern.1cd1c36303f3d9be451ef635e25e161b.svg",
+    "main.5cf0f298.js.map": "/static/js/main.5cf0f298.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5cf0f298.js"
+  ]
+}
